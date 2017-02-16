@@ -1,7 +1,7 @@
 Mosaic
 ======
 
-A script's repo that makes you think your pictures made from shiny rocks, bricks, little pixels, etc.
+A script's repo that makes you think your pictures made from shiny rocks, bricks, little pixels, etc. Actually, pixelate an image then use an alpha mask. That's all. For now.
 
 ## Requirements
 
