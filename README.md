@@ -21,9 +21,9 @@ You can use it by typing
 - `--input`: required.
 - `--output`: required.
 - `--mask`: Optional. But if you do not specify a mask, your picture will be pixelized only.
-- `--background`: Optional. If you do not specify, it'll use "#FFFFFF".
+- `--background`: Optional. If you do not specify, it'll use `#FFFFFF`.
 
-Note that for `--background` parameter, your color should be start with `#` and must be 6 characters long, exactly. So, you should use `#FFFFFF` instead of `#FFF`
+Note that for `--background` parameter, your color should be start with `#` and must be 6 characters long, exactly. So, you should use `#FFFFFF` instead of `#FFF` and remember `"`s.
 
 
 ## Some results
